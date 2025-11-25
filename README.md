@@ -1,6 +1,6 @@
 <div align="center">
   
-# Muhammad Atif Latif ### Senior Software Engineer | AI/ML Architect | Data Science Specialist
+ Muhammad Atif Latif | Senior Software Engineer | AI/ML Architect | Data Science Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-atif-latif-13a171318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat&logo=medium)](https://medium.com/@muhammadatiflatif67)
