@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Muhammad+Atif+Latif;AI%2FML+Architect;Senior+Software+Engineer;Data+Science+Specialist" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Atif+Latif;AI+%26+Software+Architect;Building+Production-Grade+Intelligent+Systems" />
+
   <p align="center">
     <a href="https://www.linkedin.com/in/muhammad-atif-latif-13a171318">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:muhammadatiflatif67@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://medium.com/@muhammadatiflatif67">
-      <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="https://bsky.app/profile/@its-atif.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
@@ -17,30 +17,38 @@
   </p>
 </div>
 
+---
+
 <table>
   <tr>
     <td width="60%" valign="top">
-      
+
 ## 👨‍💻 Architecture & Engineering
-> *"Architecting the future with 15+ years of enterprise experience."*
 
-I specialize in building **production-grade AI systems**, **cloud-native architectures**, and **big data pipelines**. My work bridges the gap between theoretical data science and scalable software engineering.
+> *"Architecting intelligent systems that survive real-world traffic, complexity, and change."*
 
-**🔭 Current Focus:**
-- **GenAI & LLMs:** Fine-tuning transformers for enterprise NLP.
-- **MLOps:** Automating the path from notebook to production (Kubeflow, MLflow).
-- **Cloud Architecture:** Designing fault-tolerant distributed systems on AWS/Azure.
+I design and build **production-grade AI platforms**, **cloud-native backends**, and **data-intensive systems**.  
+My work focuses on closing the gap between **research notebooks** and **hardened, observable, scalable software**.
 
-**🌱 Core Competencies:**
-- `Deep Learning` (CNNs, RNNs, GANs)
+**🔭 Current Focus**
+
+- **GenAI & LLMs** – Retrieval-augmented generation, fine-tuning, and evaluation for real products.
+- **MLOps** – Reproducible pipelines from experimentation to deployment (MLflow, Kubeflow, CI/CD).
+- **Cloud Architecture** – Distributed, fault-tolerant systems on **AWS / Azure / GCP**.
+
+**🌱 Core Competencies**
+
+- `Deep Learning` – CNNs, RNNs, Transformers, GANs
 - `Microservices` & `Event-Driven Architecture`
-- `Big Data Processing` (Spark, Kafka)
-- `Technical Leadership` & `Mentorship`
+- `Big Data & Streaming` – Spark, Kafka
+- `Technical Leadership` – design reviews, mentoring, roadmap shaping
+
+I enjoy taking **messy, ambiguous problems** and turning them into **clear architectures, reference implementations, and playbooks** that teams can actually execute.
 
 </td>
 <td width="40%" valign="top">
 
-## 📊 Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -55,15 +63,15 @@ I specialize in building **production-grade AI systems**, **cloud-native archite
 
 ---
 
-<h2 align="center">🛠️ The Arsenal</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="25%"><b>🧠 AI & Data</b></td>
     <td align="center" width="25%"><b>💻 Backend</b></td>
-    <td align="center" width="25%"><b>☁️ Infrastructure</b></td>
-    <td align="center" width="25%"><b>⚙️ DevOps</b></td>
+    <td align="center" width="25%"><b>☁️ Cloud & Infra</b></td>
+    <td align="center" width="25%"><b>⚙️ DevOps & Observability</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -84,47 +92,85 @@ I specialize in building **production-grade AI systems**, **cloud-native archite
 
 ---
 
-## 🏆 Achievements & Impact
+## 🚀 Signature Systems I’ve Designed
+
+> Not just tools – **systems** that combine AI, data, and cloud architecture.
+
+- **💡 Intelligent Decision Engines**  
+  Designed scoring & ranking services for real-time decisions using **feature stores**, **model ensembles**, and **A/B testing** wired directly into the deployment pipeline.
+
+- **📦 End-to-End ML Platforms**  
+  From data ingestion → training → evaluation → deployment → monitoring.  
+  Automated via **CI/CD**, tracking experiments with **MLflow**, and shipping artifacts through containerized pipelines.
+
+- **📡 Streaming & Event-Driven Architectures**  
+  Built **Kafka**-backed microservice topologies with backpressure handling, schema evolution strategies, and observability-first design.
+
+- **🔐 Secure, Compliant Systems**  
+  Architected solutions with auditability, role-based access, and encrypted data flows baked in from day zero, not as an afterthought.
+
+---
+
+## 🏢 Domains Where I Apply This
+
+<details>
+<summary><h3>🔍 Specialized Industry Domains</h3></summary>
+
+| Domain        | Example Use Cases                         | Typical Tech Stack                         |
+| :------------ | :---------------------------------------- | :----------------------------------------- |
+| **FinTech**   | Fraud detection, risk scoring, trading    | Python, PySpark, Kafka, Time-Series        |
+| **Healthcare**| Medical imaging, patient risk analytics   | PyTorch, Computer Vision, DICOM            |
+| **E‑Commerce**| Recommendations, inventory prediction     | Scikit-Learn, Redis, Kafka                 |
+| **IoT**       | Edge AI, real-time sensor analytics       | C++, MQTT, TensorFlow Lite, Stream APIs    |
+
+</details>
+
+---
+
+## 🧠 How I Think & Work
+
+<details>
+<summary><h3>🎓 Professional Philosophy</h3></summary>
+<br>
+
+> *"The best systems are not only powerful, but also observable, debuggable, and understandable by the next engineer who joins the team."*
+
+**My Principles**
+
+1. **Architecture First, Not Architecture-Only**  
+   Clear designs and diagrams, but always validated with working code and feedback loops.
+2. **Quality Over Hype**  
+   Prefer robust, maintainable solutions over chasing every new buzzword.
+3. **Security & Reliability by Design**  
+   Threat modeling, SLAs/SLOs, failure modes and graceful degradation from day one.
+4. **Business Alignment**  
+   Every model, service, or pipeline must tie back to a measurable product or business outcome.
+5. **Teach as You Build**  
+   Documentation, internal talks, and mentoring baked into delivery.
+
+</details>
+
+---
+
+## 🏆 Achievements & Footprint
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Atif-Latif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Atif-Latif&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=M-Atif-Latif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Atif-Latif&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
 
-<details>
-<summary><h3>🔍 Click to Expand: Specialized Industry Domains</h3></summary>
-
-| Domain | Application | Tech Stack |
-| :--- | :--- | :--- |
-| **FinTech** | Fraud Detection, Algorithmic Trading | Python, PySpark, Time-Series |
-| **Healthcare** | Medical Imaging, Patient Analytics | PyTorch, Computer Vision, DICOM |
-| **E-Commerce** | Recommendation Engines, Inventory Prediction | Scikit-Learn, Redis, Kafka |
-| **IoT** | Edge AI, Sensor Data Stream | C++, MQTT, TensorFlow Lite |
-
-</details>
-
-<details>
-<summary><h3>🎓 Click to Expand: Professional Philosophy</h3></summary>
-<br>
-<blockquote>
-"The best code is not just functional—it's maintainable, scalable, and elegant. Excellence in software engineering comes from balancing technical expertise with business acumen, continuous learning with practical application, and innovation with reliability."
-</blockquote>
-
-**My Rules:**
-1. **Quality Over Quantity:** Delivering robust, well-tested solutions.
-2. **Security First:** Building secure, compliant systems from the ground up.
-3. **Business Impact:** Aligning technical decisions with business goals.
-</details>
-
----
+## 🤝 Let’s Collaborate
 
 <div align="center">
   
-  <h3>📫 Let's Connect</h3>
-  <p>Open for Consulting, Architectural Reviews, and Speaking Engagements.</p>
+  <p>Open to consulting, architectural reviews, deep‑dive design sessions, and speaking engagements.</p>
 
   <a href="https://facebook.com/matiflatif67">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="25"/>
@@ -139,13 +185,13 @@ I specialize in building **production-grade AI systems**, **cloud-native archite
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" height="25"/>
   </a>
 
-  <br /> <br />
+  <br/><br/>
 
   <a href="https://buymeacoffee.com/muhammadatiflatif">
-    <img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  
-  <br />
+
+  <br/><br/>
 
   ![Visitor Count](https://visitcount.itsvg.in/api?id=M-Atif-Latif&icon=5&color=10)
 
